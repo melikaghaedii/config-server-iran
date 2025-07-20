@@ -8,3 +8,7 @@ stop a running cammand
 ```
 kill id
 ```
+tunnel irans server
+```
+wget https://raw.githubusercontent.com/lokidv/wghelper/main/install.sh && chmod +x install.sh && ./install.sh
+```
